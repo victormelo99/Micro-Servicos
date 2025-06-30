@@ -1,7 +1,12 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\victor.antonio\\Documents\\Micro-Servicos\\Servico1\\GeekShooping\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9F65B5A7-9BB3-4292-8EC3-791DD4E5AB87}|GeekShooping.Web\\GeekShooping.Web.csproj|c:\\users\\victor.antonio\\documents\\micro-servicos\\servico1\\geekshooping\\geekshooping.web\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{9F65B5A7-9BB3-4292-8EC3-791DD4E5AB87}|GeekShooping.Web\\GeekShooping.Web.csproj|solutionrelative:geekshooping.web\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,11 +14,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 258,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\victor.antonio\\Documents\\Micro-Servicos\\Servico1\\GeekShooping\\GeekShooping.Web\\appsettings.json",
+              "RelativeDocumentMoniker": "GeekShooping.Web\\appsettings.json",
+              "ToolTip": "C:\\Users\\victor.antonio\\Documents\\Micro-Servicos\\Servico1\\GeekShooping\\GeekShooping.Web\\appsettings.json",
+              "RelativeToolTip": "GeekShooping.Web\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-06-30T16:34:14.12Z",
+              "EditorCaption": ""
             }
           ]
         }

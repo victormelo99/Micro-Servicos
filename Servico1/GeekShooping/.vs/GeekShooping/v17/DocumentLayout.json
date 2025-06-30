@@ -1,7 +1,28 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\victor.antonio\\Documents\\Micro-Servicos\\Servico1\\GeekShooping\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9F65B5A7-9BB3-4292-8EC3-791DD4E5AB87}|GeekShooping.Web\\GeekShooping.Web.csproj|c:\\users\\victor.antonio\\documents\\micro-servicos\\servico1\\geekshooping\\geekshooping.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F65B5A7-9BB3-4292-8EC3-791DD4E5AB87}|GeekShooping.Web\\GeekShooping.Web.csproj|solutionrelative:geekshooping.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F65B5A7-9BB3-4292-8EC3-791DD4E5AB87}|GeekShooping.Web\\GeekShooping.Web.csproj|c:\\users\\victor.antonio\\documents\\micro-servicos\\servico1\\geekshooping\\geekshooping.web\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F65B5A7-9BB3-4292-8EC3-791DD4E5AB87}|GeekShooping.Web\\GeekShooping.Web.csproj|solutionrelative:geekshooping.web\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F65B5A7-9BB3-4292-8EC3-791DD4E5AB87}|GeekShooping.Web\\GeekShooping.Web.csproj|c:\\users\\victor.antonio\\documents\\micro-servicos\\servico1\\geekshooping\\geekshooping.web\\utils\\httpclientextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F65B5A7-9BB3-4292-8EC3-791DD4E5AB87}|GeekShooping.Web\\GeekShooping.Web.csproj|solutionrelative:geekshooping.web\\utils\\httpclientextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F65B5A7-9BB3-4292-8EC3-791DD4E5AB87}|GeekShooping.Web\\GeekShooping.Web.csproj|c:\\users\\victor.antonio\\documents\\micro-servicos\\servico1\\geekshooping\\geekshooping.web\\services\\iservices\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F65B5A7-9BB3-4292-8EC3-791DD4E5AB87}|GeekShooping.Web\\GeekShooping.Web.csproj|solutionrelative:geekshooping.web\\services\\iservices\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F65B5A7-9BB3-4292-8EC3-791DD4E5AB87}|GeekShooping.Web\\GeekShooping.Web.csproj|c:\\users\\victor.antonio\\documents\\micro-servicos\\servico1\\geekshooping\\geekshooping.web\\models\\productmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F65B5A7-9BB3-4292-8EC3-791DD4E5AB87}|GeekShooping.Web\\GeekShooping.Web.csproj|solutionrelative:geekshooping.web\\models\\productmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,11 +30,76 @@
       "DocumentGroups": [
         {
           "DockedWidth": 258,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\victor.antonio\\Documents\\Micro-Servicos\\Servico1\\GeekShooping\\GeekShooping.Web\\Program.cs",
+              "RelativeDocumentMoniker": "GeekShooping.Web\\Program.cs",
+              "ToolTip": "C:\\Users\\victor.antonio\\Documents\\Micro-Servicos\\Servico1\\GeekShooping\\GeekShooping.Web\\Program.cs",
+              "RelativeToolTip": "GeekShooping.Web\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-30T17:22:06.305Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProductService.cs",
+              "DocumentMoniker": "C:\\Users\\victor.antonio\\Documents\\Micro-Servicos\\Servico1\\GeekShooping\\GeekShooping.Web\\Services\\ProductService.cs",
+              "RelativeDocumentMoniker": "GeekShooping.Web\\Services\\ProductService.cs",
+              "ToolTip": "C:\\Users\\victor.antonio\\Documents\\Micro-Servicos\\Servico1\\GeekShooping\\GeekShooping.Web\\Services\\ProductService.cs",
+              "RelativeToolTip": "GeekShooping.Web\\Services\\ProductService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACUAAABJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-30T17:03:23.082Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HttpClientExtensions.cs",
+              "DocumentMoniker": "C:\\Users\\victor.antonio\\Documents\\Micro-Servicos\\Servico1\\GeekShooping\\GeekShooping.Web\\Utils\\HttpClientExtensions.cs",
+              "RelativeDocumentMoniker": "GeekShooping.Web\\Utils\\HttpClientExtensions.cs",
+              "ToolTip": "C:\\Users\\victor.antonio\\Documents\\Micro-Servicos\\Servico1\\GeekShooping\\GeekShooping.Web\\Utils\\HttpClientExtensions.cs",
+              "RelativeToolTip": "GeekShooping.Web\\Utils\\HttpClientExtensions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACkAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-30T16:47:03.23Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IProductService.cs",
+              "DocumentMoniker": "C:\\Users\\victor.antonio\\Documents\\Micro-Servicos\\Servico1\\GeekShooping\\GeekShooping.Web\\Services\\IServices\\IProductService.cs",
+              "RelativeDocumentMoniker": "GeekShooping.Web\\Services\\IServices\\IProductService.cs",
+              "ToolTip": "C:\\Users\\victor.antonio\\Documents\\Micro-Servicos\\Servico1\\GeekShooping\\GeekShooping.Web\\Services\\IServices\\IProductService.cs",
+              "RelativeToolTip": "GeekShooping.Web\\Services\\IServices\\IProductService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-30T16:41:22.849Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ProductModel.cs",
+              "DocumentMoniker": "C:\\Users\\victor.antonio\\Documents\\Micro-Servicos\\Servico1\\GeekShooping\\GeekShooping.Web\\Models\\ProductModel.cs",
+              "RelativeDocumentMoniker": "GeekShooping.Web\\Models\\ProductModel.cs",
+              "ToolTip": "C:\\Users\\victor.antonio\\Documents\\Micro-Servicos\\Servico1\\GeekShooping\\GeekShooping.Web\\Models\\ProductModel.cs",
+              "RelativeToolTip": "GeekShooping.Web\\Models\\ProductModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-30T16:38:49.322Z",
+              "EditorCaption": ""
             }
           ]
         }
